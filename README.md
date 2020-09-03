@@ -1,4 +1,4 @@
 # hello-world
 
 Hi there,
-Just saying Hello.
+Just saying Hello to other users in the team.
